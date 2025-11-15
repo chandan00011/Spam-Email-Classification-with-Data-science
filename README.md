@@ -1,0 +1,2 @@
+# Spam-Email-Classification-with-Data-science
+🚀 New GitHub Project! Built a Spam Email Detection Model using Python, NLP &amp; Machine Learning. Used TF-IDF, text preprocessing &amp; Naive Bayes to classify spam vs ham with high accuracy. Check it out &amp; feel free to explore the code!  🔗 GitHub link: (add link)  #DataScience #NLP #ML #GitHub
